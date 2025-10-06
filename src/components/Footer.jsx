@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>Sri Chaitanya High School</h3>
+            <h3>Sri Chaitanya High School - -Upesh</h3>
             <p>Providing excellence in education since 2005. Nurturing future leaders in Telukunchi with a student-centered approach.</p>
             <p>CBSE Affiliated | 500+ Students | 50+ Faculty</p>
           </div>
